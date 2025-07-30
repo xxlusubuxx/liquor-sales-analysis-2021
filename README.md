@@ -3,6 +3,8 @@
 See the full report with detailed insights and strategic recommendations here:  
 👉 [Alcohol_Sales_Report_2021.md](report/Alcohol_Sales_Report_2021.md)
 
+⚠️ Full PBIX too large for GitHub. Download it here: [Google Drive Link]https://drive.google.com/file/d/1qlJ83aT3dN1tYZQDtFK9KDUN7DwPPerZ/view?usp=sharing
+
 # 📊 Iowa Liquor Sales Analysis (2021)
 
 This project analyzes liquor sales data from the state of Iowa in 2021. Built in Power BI, the report highlights trends across product types, retail locations, and seasons.
