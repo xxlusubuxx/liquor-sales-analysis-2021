@@ -31,7 +31,8 @@ These surges align with corresponding increases in transaction volume, as eviden
 
 From June towards December, a plunge was observed in July considering June was the peak. Figures in sales went gradually up towards December, while figures in invoice count experienced a dip in October, rising towards December anyways.
 
-![[Pasted image 20250807145103.png]]
+
+![[IOWA Liquor Sales - Images/Pasted image 20250807144932.png]]
 
 Further analysis of sales distribution by days of the week reveals **stronger performance during weekdays** compared to weekends. This consistent pattern throughout the months suggests habitual, possibly pre-event or stock-up purchases, rather than spontaneous weekend buying behavior.
 
