@@ -4,6 +4,9 @@ This project analyzes over **$428M** in liquor sales over 12 months, identifying
 
 Data pulled from https://www.kaggle.com/datasets/gabrielramos87/iowa-sales-liquor-jan-2021jan-2022
 
+<img width="864" height="488" alt="image" src="https://github.com/user-attachments/assets/004836a1-8484-4b61-b7c7-71ce74f99c25" />
+
+
 ---
 
 ## 📌 Objectives
