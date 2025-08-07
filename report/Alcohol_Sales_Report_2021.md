@@ -31,11 +31,11 @@ These surges align with corresponding increases in transaction volume, as eviden
 
 From June towards December, a plunge was observed in July considering June was the peak. Figures in sales went gradually up towards December, while figures in invoice count experienced a dip in October, rising towards December anyways.
 
-https://github.com/xxlusubuxx/liquor-sales-analysis-2021/blob/8edb0b8c4e6e73387d96c4cb7ecb10b35c85d426/IOWA%20Liquor%20Sales%20-%20Images/Pasted%20image%2020250802142432.png
+<img width="859" height="483" alt="Pasted image 20250807145103" src="https://github.com/user-attachments/assets/ae1bddd6-986c-40df-bfa8-c8ab99b200be" />
 
 Further analysis of sales distribution by days of the week reveals **stronger performance during weekdays** compared to weekends. This consistent pattern throughout the months suggests habitual, possibly pre-event or stock-up purchases, rather than spontaneous weekend buying behavior.
 
-![[Pasted image 20250807145033.png]]
+<img width="871" height="492" alt="Pasted image 20250807145033" src="https://github.com/user-attachments/assets/3fe6a462-e756-4a69-8b10-5bcdef44ec95" />
 
 +**Actions to take:** Inventory planning and workforce scheduling should align with weekday demand cycles and high-performing months. More specific insight regarding seasons and campaigns from sales required to strategically plan discounts during peak seasons/holidays for next year.
 
@@ -46,7 +46,7 @@ The majority of purchases occur within **medium-range product sizes**, specifica
 
 A secondary cluster of high sales volume is observed in **1.75L bottle formats**, with minimal activity between **1.25L and 1.5L**. This indicates a **bimodal consumer preference**, where buyers either opt for **standard-sized formats** (750–1000mL) or **bulk-oriented purchases** (1.75L). Records of bulk-buyers should be looked into further to gain insight on the behavior of this particular group.
 
-![[Pasted image 20250807145505.png]]
+<img width="862" height="485" alt="Pasted image 20250807145505" src="https://github.com/user-attachments/assets/11896a17-b67d-4a7e-83ed-8ff68cb5d172" />
 
 **SKU-level analysis** of top-performing products revealed that:
 
@@ -54,7 +54,7 @@ A secondary cluster of high sales volume is observed in **1.75L bottle formats**
     
 - Products such as **Black Velvet**, **Captain Morgan**, and **Fireball Cinnamon** also ranked among the top sellers
 
-![[Pasted image 20250807152909.png]]
+<img width="871" height="488" alt="Pasted image 20250807152909" src="https://github.com/user-attachments/assets/8fc56524-83ed-4ef0-bcc8-87b15dee3563" />
 
 **Purchasing volumes per invoice** indicate strong clustering:
 
@@ -64,7 +64,7 @@ A secondary cluster of high sales volume is observed in **1.75L bottle formats**
     
 - ~30% purchased between **750mL and 1.5L**
 
-![[Pasted image 20250807153803.png]]
+<img width="633" height="478" alt="Pasted image 20250807153803" src="https://github.com/user-attachments/assets/1d8c1a89-4628-4623-bdb5-779b67bec144" />
 
 **Interpretation:**
 
@@ -77,7 +77,7 @@ This volume-based heuristic is further supported by the scarcity of purchases be
 
 ### 🏪 Store-Level Performance
 
-![[Pasted image 20250807160654.png]]
+<img width="875" height="490" alt="Pasted image 20250807160654" src="https://github.com/user-attachments/assets/413aaedb-4f3a-4d45-a622-1358a9c5b9f6" />
 
 Sales analysis across key store locations indicates that performance is highly concentrated among a few dominant outlets:
 
@@ -116,7 +116,7 @@ Monthly trends show:
 - Leverage **Costco** and **Sam’s Club** for targeted seasonal campaigns, especially in Q2 and Q4 where sales increase
 ### 🤝 Brand-Level Vendor Performance
 
-![[Pasted image 20250807155515.png]]
+<img width="882" height="493" alt="Pasted image 20250807155515" src="https://github.com/user-attachments/assets/5b2cb189-afb4-4606-bed3-325def8d6932" />
 
 Analysis of sales by brand reveals that **DIAGEO AMERICAS** dominated with **$84.71M in sales**, representing **31.09%** of total revenue. This was followed by:
 
@@ -151,9 +151,9 @@ This distribution reflects both consistent vendor loyalty and brand-driven purch
 
 Sales distribution across price ranges illustrates a clear concentration below the **$50** threshold, with the **$10–$30** band accounting for the majority of units sold. The **median bottle price** was **$13.49**, reinforcing the value-driven nature of purchasing behavior.
 
-![[Pasted image 20250807145850.png]]
+<img width="212" height="106" alt="Pasted image 20250807145850" src="https://github.com/user-attachments/assets/20c20f6f-d3fa-49f8-ab69-f7edd56d1b2a" />
 
-![[Pasted image 20250807145917.png]]
+<img width="873" height="496" alt="Pasted image 20250807145917" src="https://github.com/user-attachments/assets/0d7799f1-9cff-4441-8b93-a86b6ae86bb3" />
 
 While direct analysis of price elasticity was not feasible due to static pricing, customer sensitivity to price ceilings is evident. Sales volume drops significantly past the $50 mark.
 
