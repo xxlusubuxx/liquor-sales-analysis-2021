@@ -1,40 +1,52 @@
-<img width="874" height="480" alt="image" src="https://github.com/user-attachments/assets/e31618e3-454b-41f0-841e-7427c63883b6" />## 📄 Full Report
+# 🛒 Liquor Sales Performance Analysis
 
-See the full report with detailed insights and strategic recommendations here:  
-👉 [Alcohol_Sales_Report_2021.md](report/Alcohol_Sales_Report_2021.md)
+This project analyzes over **$428M** in liquor sales over 12 months, identifying trends in customer behavior, product preferences, pricing sensitivity, and top-performing stores and vendors.
 
-⚠️ Full PBIX too large for GitHub. Download it here: [Google Drive Link]https://drive.google.com/file/d/1qlJ83aT3dN1tYZQDtFK9KDUN7DwPPerZ/view?usp=sharing
+Data pulled from https://www.kaggle.com/datasets/gabrielramos87/iowa-sales-liquor-jan-2021jan-2022
 
-# 📊 Iowa Liquor Sales Analysis (2021)
+---
 
-This project analyzes liquor sales data from the state of Iowa in 2021. Built in Power BI, the report highlights trends across product types, retail locations, and seasons.
+## 📌 Objectives
 
-## 📁 Project Files
+- Identify high-revenue sales periods and behavioral patterns
+- Analyze product clustering by volume, size, and SKU
+- Understand price sensitivity and purchase volume thresholds
+- Provide actionable insights for marketing, pricing, and operations
 
-- `Liquor_Sales_2021.pbix` – Power BI report file
-- `insights_summary.md` – summary report describing key findings
+---
 
-## 💡 Key Insights
+## 📂 Folder Structure
 
-- Identified top-selling liquor categories and brands by revenue
-- Visualized sales patterns by season, region, and vendor
-- Surfaced opportunities to optimize inventory and promotions
+- `/report/`: Final report (Markdown)
+- `/images/`: All charts and visuals used
+
+---
+
+## 📈 Key Insights
+
+- Customers tend to stop purchasing at ~10L per invoice
+- Sales volume significantly drops above the $50 price point
+- Weekday sales consistently outperform weekend sales
+- Top 10 stores generate the majority of revenue
+- Just 3 vendors account for over 60% of total sales
+
+---
 
 ## 🧰 Tools Used
 
-- Power BI
-- DAX (for custom measures)
-- Public dataset from https://www.kaggle.com/datasets/gabrielramos87/iowa-sales-liquor-jan-2021jan-2022
+- Excel / Power BI
+- Markdown
+- GitHub
 
-## 📸 Dashboard Preview
+---
 
-<img width="874" height="480" alt="image" src="https://github.com/user-attachments/assets/6e2265b5-c722-4853-aab6-b111a86464fc" />
-<img width="874" height="507" alt="image" src="https://github.com/user-attachments/assets/a7a4e36c-bc6c-4f69-90af-28ff2ed58cc5" />
-<img width="875" height="507" alt="image" src="https://github.com/user-attachments/assets/37611f9f-4e01-4d12-9df6-f558d95f8981" />
+## 📘 Report
 
+Access the full report [here](./report/Sales_Performance_Report.md)
 
-## 📝 Notes
+---
 
-- The `.pbix` file can be opened with Power BI Desktop (free from Microsoft).
-- All data used is public and anonymized.
+## 👤 Author
 
+**Đoàn Quốc Hưng**  
+[[LinkedIn](https://www.linkedin.com/in/hung-doan-160796/)](#) | [Email](hungdoan160796@gmail.com)(#)
